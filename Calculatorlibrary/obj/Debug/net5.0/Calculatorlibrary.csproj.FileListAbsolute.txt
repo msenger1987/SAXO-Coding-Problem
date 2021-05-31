@@ -1,0 +1,24 @@
+C:\Users\Manish singh senger\Calculatorlibrary\bin\Debug\net5.0\Calculatorlibrary.deps.json
+C:\Users\Manish singh senger\Calculatorlibrary\bin\Debug\net5.0\Calculatorlibrary.dll
+C:\Users\Manish singh senger\Calculatorlibrary\bin\Debug\net5.0\ref\Calculatorlibrary.dll
+C:\Users\Manish singh senger\Calculatorlibrary\bin\Debug\net5.0\Calculatorlibrary.pdb
+C:\Users\Manish singh senger\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.csprojAssemblyReference.cache
+C:\Users\Manish singh senger\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manish singh senger\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.AssemblyInfoInputs.cache
+C:\Users\Manish singh senger\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.AssemblyInfo.cs
+C:\Users\Manish singh senger\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Manish singh senger\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.dll
+C:\Users\Manish singh senger\Calculatorlibrary\obj\Debug\net5.0\ref\Calculatorlibrary.dll
+C:\Users\Manish singh senger\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.pdb
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\bin\Debug\net5.0\Calculatorlibrary.deps.json
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\bin\Debug\net5.0\Calculatorlibrary.dll
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\bin\Debug\net5.0\ref\Calculatorlibrary.dll
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\bin\Debug\net5.0\Calculatorlibrary.pdb
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.csprojAssemblyReference.cache
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.AssemblyInfoInputs.cache
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.AssemblyInfo.cs
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.dll
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\obj\Debug\net5.0\ref\Calculatorlibrary.dll
+C:\Users\Manish singh senger\Share Saxo Test\Calculatorlibrary\obj\Debug\net5.0\Calculatorlibrary.pdb
