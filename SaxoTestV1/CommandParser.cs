@@ -15,10 +15,10 @@ namespace SaxoTestV1
          asem =  Assembly.LoadFile(dllfile.FullName);
          assemblyName = asem.GetName().Name;
         }
-        public static dynamic GetCommand(string command)
+        public static IOperations GetCommand(string command)
         {
          command = string.Concat(assemblyName,'.',command);
-         return asem.CreateInstance(command);
+         return (IOperations)Activator.CreateInstance(assemblyName,command).Unwrap();
         }
     }
 }
