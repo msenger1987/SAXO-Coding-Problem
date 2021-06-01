@@ -22,7 +22,7 @@ namespace SaxoTestV1
 
     public int DoOperation(string[] command)
     {
-        dynamic op = CommandParser.GetCommand(command[0]);
+        IOperations op = (IOperations)CommandParser.GetCommand(command[0]);
         op.increaseCount();
         return op.performCalculation(command[1]);
     }
